@@ -1,0 +1,1 @@
+cat '/data/data/com.termux/files/home/banner02'
